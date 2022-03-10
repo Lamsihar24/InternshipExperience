@@ -8,4 +8,4 @@ You must have heard of Selenium Webdriverio, right? So I use the framework for w
 Em, please introduce my mentor, Mas Damarananta. He is the head of Quality Engineer.
 And don't be satisfied with just receiving knowledge from mentors, if you have problems, can you really ask other seniors, instead of being stuck yourself?
 During my internship I also often asked my seniors, who of course understood and understood more. Asking is not wrong, it's actually the first step to be more courageous and develop. Thank you to mentors and seniors who have provided useful guidance and knowledge.
-I am happy to share my experiences as an intern at Kompas Daily, Kompas Gramedia.
+I am happy to share my experiences as an intern at Harian Kompas, Kompas Gramedia.
